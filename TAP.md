@@ -2,7 +2,7 @@
 
 | Projeto | Data |
 | :---: | :---: |
-|  | 2024/2 |
+| Nome | 2024/2 |
 
 
 ## 1. Propósito ou justificativa do Projeto
