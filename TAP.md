@@ -30,11 +30,10 @@
 | :---: | :---: |
 |  |  |
 
-## 12. Orçamento do Projeto
 
-## 13. Lista de partes interessadas
+## 12. Lista de partes interessadas
 
-## 14. Equipe do Projeto
+## 13. Equipe do Projeto
 
 | Nome | Papel Projetado |
 | :---: | :---: |
