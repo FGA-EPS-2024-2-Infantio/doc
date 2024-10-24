@@ -4,34 +4,37 @@
 | :---: | :---: |
 | Nome | 2024/2 |
 
+## 1. Objetivos deste documento
 
-## 1. Propósito ou justificativa do Projeto
+## 2. Situação atual e Justificativa do Projeto
 
-## 2. Objetivos do projeto
+## 3. Objetivos SMART e critérios de sucesso do projeto
 
-## 3. Requisitos de Alto Nível
+## 4. Estrutura Analítica do Projeto - Fases e principais entregas
 
-## 4. Premissas
+## 5. Principais requisitos das principais entregas/produto
 
-## 5. Restrições 
+## 6. Premissas
 
-## 6. Descrição do projeto em alto nível
+## 7. Restrições 
 
-## 7. Limites do projeto
+## 8. Limites do projeto
 
-## 8. Riscos de alto nível
+## 9. Riscos de alto nível
 
-## 9. Resumo de orçamento
+## 10. Resumo de orçamento
 
-## 10. Resumo de cronograma de marcos
+## 11. Resumo de cronograma de marcos
 
 | Marcos | Previsão |
 | :---: | :---: |
 |  |  |
 
-## 11. Lista de partes interessadas
+## 12. Orçamento do Projeto
 
-## 12. Equipe do Projeto
+## 13. Lista de partes interessadas
+
+## 14. Equipe do Projeto
 
 | Nome | Papel Projetado |
 | :---: | :---: |
