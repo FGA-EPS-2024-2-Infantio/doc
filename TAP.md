@@ -21,6 +21,45 @@ Com estes pontos definidos, propõe-se um sistema web que centralizará os proce
 
 ## 3. Objetivos SMART e critérios de sucesso do projeto
 
+O SMART é um método utilizado por empresas, negócios e/ou corporações, que auxilia na determinação de objetivos e metas para o projetos, e as formas nas quais eles podem ser realizados, podem ser alcançados, de maneira inteligente.
+
+Esse método vai trabalhar em objetivos que possuam características alinhadas com os seguintes pontos: Precisam ser específicos (letra S), mensuráveis (letra M), atingíveis (letra A), relevante (letra R) e temporais (letra T). O SMART é um acrônimo que forma a palavra em inglês **smart**, do português: **inteligente**. 
+
+A partir dessa definição, definem-se como objetivos SMART para esse projeto:
+
+
+<ul>
+    <li><b>Específico</b>
+        <ul>
+            <li></la>
+        </ul>
+    </li>
+    <li><b>Mensurável</b>
+        <ul>
+            <li>O Sucesso desse projeto se dá pela finalização de todas as etapas propostas por este documento para execução do projeto no período proposto, e da aprovação e satisfação da proprietátia da empresa. Por também se tratar de um projeto acadêmico, é critério totalmente mensurável a aprovação na disciplina, concebida aos componentes do time com menção superior ou igual ao MM </la>
+        </ul> 
+    </li>
+    <li><b>Atingível</b>
+        <ul>
+            <li>As metas são determinadas para o semestre letivo atual, no período de 2024/2, não mais e não menos que isso. Portanto, as específicações no MVP e o levantamento das etapas respeitam o período existente. A divisão de marcos(milestone) também respeita esse período</la>
+        </ul>
+    </li>
+    <li><b>Relevante</b>
+        <ul>
+            <li>Entende-se como relevantes para esse projeto alguns fluxos de serviço existentes na empresa, principalmente os que são realizados de forma mecânica, e podem ser automatizados e/ou melhorados. Aspectos relevantes e relacionados a matrícula, organização e execução, serão cobertos. Enxergamos tais processo bastante impactantes para a empresa</la>
+        </ul>
+    </li>
+    <li><b>Temporal</b>
+        <ul>
+            <li>Para execução deste projeto, o período de trabalho é o semestre 2024/2 </la>
+        </ul>
+    </li>
+</ul>
+
+
+
+
+
 ## 4. Estrutura Analítica do Projeto - Fases e principais entregas
 
 ## 5. Principais requisitos das principais entregas/produto
@@ -46,9 +85,15 @@ Com estes pontos definidos, propõe-se um sistema web que centralizará os proce
 
 ## 13. Equipe do Projeto
 
-| Nome | Papel Projetado |
-| :---: | :---: |
-| Pedro Helias Carlos | Exemplo |
+| Nome | Matrícula |Papel Projetado | 
+| :---: | :---: |:---: |
+| Gabriel Ferreira da Silva | 200018060 |  |
+| Henrique Pucci da Silva Pinto | 202016506 | |
+| Lucas Lopes Frazão | 211031771||
+| Matheus Calixto Vaz Pinheiro| 190055201||
+| Pedro Helias Carlos| 140158278 ||
+| Pedro de Miranda Haick| 180129147 ||
+| Victor Eduardo Araujo Ribeiro | 190038926||
 
 
 ## Histórico de versão
@@ -57,3 +102,5 @@ Com estes pontos definidos, propõe-se um sistema web que centralizará os proce
 | :----: | :--------: | :--------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------------: |
 |  1.0   | 23/10/2024 | Criação inicial do documento | Pedro Helias Carlos | Pedro e Victor |
 |  1.1   | 24/10/2024 | Adição das Justificativas | Pedro Helias Carlos | Pedro e Victor |
+|  1.2   | 25/10/2024 | Adição dos objetivos, riscos e orçamento | Victor Eduardo | Pedro Helias e Pedro |
+|  1.3   | 25/10/2024 | Adição do SMART | Pedro Helias Carlos | Pedro e Victor |
